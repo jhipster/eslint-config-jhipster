@@ -1,0 +1,41 @@
+{
+  "name": "eslint-config-jhipster-react",
+  "version": "0.0.1",
+  "description": "Provides JHipster ESLint shareable configurations for React applications",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal423/eslint-config-jhipster.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "react",
+    "jhipster"
+  ],
+  "author": "Vishal Mahajan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vishal423/eslint-config-jhipster/issues"
+  },
+  "homepage": "https://github.com/vishal423/eslint-config-jhipster#readme",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": ">=2.0.0",
+    "@typescript-eslint/parser": ">=2.0.0",
+    "eslint": ">=6.1.0",
+    "eslint-config-prettier": ">=6.1.0",
+    "eslint-plugin-react": "7.14.3"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": ">=2.0.0",
+    "@typescript-eslint/parser": ">=2.0.0",
+    "eslint": ">=6.1.0",
+    "eslint-config-prettier": ">=6.1.0",
+    "eslint-plugin-react": "7.14.3",
+    "typescript": ">=3.4.5"
+  },
+  "devDependencies": {
+    "typescript": ">=3.4.5"
+  }
+}

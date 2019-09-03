@@ -1,0 +1,37 @@
+{
+  "name": "eslint-config-jhipster",
+  "version": "0.0.1",
+  "description": "Provides JHipster ESLint shareable configurations for Javascript applications",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishal423/eslint-config-jhipster.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "jhipster"
+  ],
+  "author": "Vishal Mahajan",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vishal423/eslint-config-jhipster/issues"
+  },
+  "homepage": "https://github.com/vishal423/eslint-config-jhipster#readme",
+  "dependencies": {},
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.0.0",
+    "@typescript-eslint/parser": "^2.0.0",
+    "eslint": "^6.1.0",
+    "eslint-config-prettier": "^6.1.0",
+    "typescript": "^3.4.5"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.0.0",
+    "@typescript-eslint/parser": "^2.0.0",
+    "eslint": "^6.1.0",
+    "eslint-config-prettier": "^6.1.0",
+    "typescript": "^3.4.5"
+  }
+}
