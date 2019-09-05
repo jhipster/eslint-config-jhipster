@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/jhipster/eslint-config-jhipster/issues"
   },
-  "homepage": "https://github.com/jhipster/eslint-config-jhipster#readme",
+  "homepage": "https://github.com/jhipster/eslint-config-jhipster/tree/master/base#readme",
   "dependencies": {},
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.0.0",
