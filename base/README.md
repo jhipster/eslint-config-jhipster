@@ -4,7 +4,7 @@ Provides [JHipster](https://www.jhipster.tech) [ESLint](https://eslint.org/docs/
 
 [![NPM version][npm-image]][npm-url] [![Dependency Status][daviddm-image]][daviddm-url] [![code style: prettier][prettier-image]][prettier-url] [![Downloads][npmcharts-image]][npmcharts-url]
 
-<img src="https://github.com/jhipster/jhipster-artwork/blob/master/logos/JHipster%20RGB-small100x25px.png?raw=true">
+<img src="https://github.com/jhipster/jhipster-artwork/blob/main/logos/JHipster%20RGB-small100x25px.png?raw=true">
 
 ## Overview
 
