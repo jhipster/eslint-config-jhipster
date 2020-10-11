@@ -1,7 +1,7 @@
 # eslint-config-jhipster
 Provides [ESLint](https://eslint.org/docs/developer-guide/shareable-configs) shareable configurations used in the JHispter applications
 
-<img src="https://github.com/jhipster/jhipster-artwork/blob/master/logos/JHipster%20RGB-small100x25px.png?raw=true">
+<img src="https://github.com/jhipster/jhipster-artwork/blob/main/logos/JHipster%20RGB-small100x25px.png?raw=true">
 
 ## Overview
 This repository publishes following [ESLint](https://eslint.org/docs/developer-guide/shareable-configs) shareable configurations used in the JHipster generated applications.
